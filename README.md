@@ -1,9 +1,9 @@
-Hi! My name is Krzysztof Kielak
+Hi!
 
 I’m interested in data processing and analysis pipelines using:
-- Python with Pandas, Matplotlib, Jupyter notebooks
-- Julia with DataFrames, Pluto notebooks etc.
 - FSharp (F#) with FSharp.Data and all .NET Core ecosystem, and AWS automation via AWSSDK for .NET
+- Python with Pandas, Matplotlib, Jupyter notebooks
+- Data wrangling and processing with Julia with DataFrames, Pluto notebooks etc.
 - Clojure in the context of AWS automation via AWSSDK for Java
 
 <!---
